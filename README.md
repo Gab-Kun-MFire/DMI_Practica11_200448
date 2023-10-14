@@ -68,7 +68,7 @@ Se muestra el título del medio (media.title) en la parte inferior izquierda de 
 En la parte inferior derecha de la tarjeta, se muestra la calificación (media.voteAverage) y la fecha de lanzamiento (media.releaseDate) del medio.
 En resumen, MEDIA_LIST_ITEM.DART define un widget reutilizable llamado MediaListItem que se utiliza para mostrar elementos individuales de la lista de medios con una imagen de fondo, título, calificación y fecha de lanzamiento.
 
-En conjunto, estos archivos forman parte de la interfaz de usuario de la aplicación "MovieApp-200931" y se utilizan para mostrar información detallada sobre las películas o programas de televisión en la página de inicio
+En conjunto, estos archivos forman parte de la interfaz de usuario de la aplicación "MovieApp-200448" y se utilizan para mostrar información detallada sobre las películas o programas de televisión en la página de inicio
 
 ## Capturas de Pantalla
 <p align="center">
